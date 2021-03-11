@@ -17,9 +17,8 @@ class CompanyAccount(accountBalance : Double, companyName : String) : Account(ac
         return transferFee * transferAmount;
     }
 
-    // TODO: Method to make a transaction being a transfer from an account object, overriding the superclass method to add a transfer fee.
-
-    /*
+    /* 
+    TODO: Implement method to make a transaction being a transfer from an account object, overriding the superclass method to add a transfer fee.
     override fun transfer(transferAmount : Double) {
         var transactionFee : Double = calculateFee(transferAmount);
         super.transfer(transferAmount -= transferFee);

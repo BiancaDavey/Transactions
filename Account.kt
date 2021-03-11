@@ -3,7 +3,7 @@
     The Account class enables the creation of Account objects representing bank accounts.
 */
 
-open class Account(accountBalance : Double)
+open class Account(accountBalance : Double) 
 {
     var accountBalance : Double = 0.0;
     var totalWithdrawals : Int = 0;

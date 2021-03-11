@@ -13,9 +13,8 @@ class SavingsAccount(accountBalance : Double, clientFirstName : String, clientLa
     }
      */
 
-    // TODO: Method to calculate the applicable transfer fee, based on the amount being transferred.
-
     /*
+    TODO: Implement method to calculate the applicable transfer fee, based on the amount being transferred.
     fun calculateFee(transactionAmount : Double) {
         return transactionFee * transferAmount;
     }
