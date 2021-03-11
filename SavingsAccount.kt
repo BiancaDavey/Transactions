@@ -3,7 +3,7 @@ class SavingsAccount(accountBalance : Double, clientFirstName : String, clientLa
 
     var clientFirstName : String = "";
     var clientLastName : String = "";
-    var transferFee : Double = 0.1;
+    var transferFee : Double = 0.1;  // Initialising values.
 
     /*
     TODO: ensure that values are added to account.
