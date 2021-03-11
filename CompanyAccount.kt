@@ -1,7 +1,7 @@
 class CompanyAccount(accountBalance : Double, companyName : String) : Account(accountBalance)
 {
 
-    var companyName : String = "";
+    var companyName : String = ""; // initialising field values.
     var transferFee : Double = 0.5;
 
     /* 
