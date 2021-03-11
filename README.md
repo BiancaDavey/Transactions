@@ -1,4 +1,4 @@
-Transactions
+# Transactions
 
 Transactions is a program simulating the creation of accounts and utilises a superclass and subclasses for specific account types. This program provides methods for making and recording transfers, withdrawals and deposits.
 
