@@ -1,9 +1,9 @@
 //class Transactions {
-    
+
     fun main(args: Array<String>)
     {
 
-        // Creating class objects.
+        // Creating class objects from the CompanyAccount and SavingsAccount subclasses.
 
         val account1 = CompanyAccount(20000.05, "Distributed Holdings Inc");
         val account2 = SavingsAccount(1050.75, "Bob", "Smith");

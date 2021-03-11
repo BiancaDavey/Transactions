@@ -11,6 +11,7 @@ open class Account(accountBalance : Double)
     var totalTransfers : Int = 0;
 
     /*
+    TODO: ensure constructor form is correctly implemented.
     constructor(accountBalance: Double) {
         accountBalance = balance;
     }

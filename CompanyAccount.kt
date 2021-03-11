@@ -4,7 +4,8 @@ class CompanyAccount(accountBalance : Double, companyName : String) : Account(ac
     var companyName : String = "";
     var transferFee : Double = 0.5;
 
-    /*
+    /* 
+    TODO: ensure that values are added to account.
     constructor(balance : Double, name : String) : super (accountBalance) {
         companyName = name;
     }

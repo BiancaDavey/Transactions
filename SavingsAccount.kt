@@ -6,6 +6,7 @@ class SavingsAccount(accountBalance : Double, clientFirstName : String, clientLa
     var transferFee : Double = 0.1;
 
     /*
+    TODO: ensure that values are added to account.
     constructor(balance: Double, firstName : String, lastName : String) : super(accountBalance) {
         clientFirstName = firstName;
         clientLastName = lastName;
