@@ -1,0 +1,1 @@
+This program simulates the creation of accounts and provides methods for carrying out transactions.
