@@ -10,7 +10,7 @@ Transactions is a program simulating the creation of accounts and utilises a sup
 
 ## Demonstration
 
-[Transactions-Demo.png](https://postimg.cc/JtRWbk7T)
+[![Transactions-Demo.png](https://i.postimg.cc/c1n4GRpN/Transactions-Demo.png)](https://postimg.cc/JtRWbk7T)
 
 ## Author
 
