@@ -7,3 +7,12 @@ Transactions is a program simulating the creation of accounts and utilises a sup
 * Account superclass with CompanyAccount and SavingsAccount subclasses with additional object attributes
 * Methods for making transfers, withdrawals and deposits
 * Clear display of account status
+
+## Demonstration
+
+[Transactions-Demo.png](https://postimg.cc/JtRWbk7T)
+
+## Author
+
+Bianca Davey
+biancamdavey@icloud.com
